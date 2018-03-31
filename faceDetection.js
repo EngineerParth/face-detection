@@ -12,7 +12,7 @@ function processImage(){
 
     var reqHeaders = new Headers({
         'Content-Type': 'application/json',
-        'Ocp-Apim-Subscription-Key':'ffb67e1a55964c988e88d9dd91784e09'
+        'Ocp-Apim-Subscription-Key':''
     });
 
     var initObj = {
